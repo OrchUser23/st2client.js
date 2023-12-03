@@ -29,7 +29,7 @@
     "url": "https://github.com/StackStorm/st2client.js.git"
   },
   "engine": {
-    "node": ">=0.11.0"
+    "node": "18.18.2"
   },
   "files": [
     "/index.js",
